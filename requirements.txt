@@ -1,0 +1,14 @@
+# Core data / metrics
+numpy>=1.24
+pandas>=2.0
+scikit-learn>=1.3
+
+# PDF loading
+pypdfium2>=4.30
+pypdf>=3.17.0
+
+# BM25 lexical retrieval
+rank-bm25>=0.2.2
+
+# ROUGE-L evaluation metric
+rouge-score>=0.1.2
