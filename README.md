@@ -1,3 +1,7 @@
+> [!NOTE]
+> **Mirror of [anote-ai/Research-semanticchunking](https://github.com/anote-ai/Research-semanticchunking).** Built at [Anote](https://github.com/anote-ai), which I founded, together with the contributors in this repository's commit history.
+> The original is the maintained version. Please open issues and PRs there.
+
 # Research-semanticchunking
 
 > **Research question:** Do semantic-boundary chunking and a hybrid retrieval pipeline actually beat a plain fixed-chunking baseline on financial filings? And when a real retrieval failure shows up, does a targeted fix generalize to questions it wasn't built for?
